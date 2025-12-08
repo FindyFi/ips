@@ -1,4 +1,4 @@
-# International Pension Summary as a digital credential
+# International Patient Summary as a digital credential
 
 ## VCT definition
 
